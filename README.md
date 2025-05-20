@@ -5,7 +5,7 @@ Netlify Deployment Link : https://visionary-donut-ed6cb1.netlify.app/
 
 Run the App Locally  
 Start Backend  
- node server.js  
+-->node server.js  
 Start Frontend  
- cd client  
- npm start
+-->cd client  
+-->npm start
