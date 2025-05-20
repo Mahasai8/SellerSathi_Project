@@ -3,9 +3,9 @@ A full-stack web application built with React, Node.js, Express, and MySQL. This
 
 Netlify Deployment Link : https://visionary-donut-ed6cb1.netlify.app/
 
-Run the App Locally 
+Run the App Locally  
 Start Backend  
- node server.js
-Start Frontend
- cd client
+ node server.js  
+Start Frontend  
+ cd client  
  npm start
